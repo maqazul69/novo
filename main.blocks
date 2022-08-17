@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="~;dpRwZQv-sUw.-S{hc^">b</variable><variable id="za^$0]Dt8D?]UwO#6t+t">c</variable></variables><block type="pxt-on-start" id="hEd9):M@rTP5giEr4!OU" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id=";J7)i0j9{O6unl#o4Fb3"><field name="VAR" id="~;dpRwZQv-sUw.-S{hc^">b</field><value name="VALUE"><shadow type="math_number" id="^2zX_nU]iHCpvQ*o+W[p"><field name="NUM">5</field></shadow></value><next><block type="variables_set" id="cLzFJnJ(#Zr~Zy:]W)NM"><field name="VAR" id="za^$0]Dt8D?]UwO#6t+t">c</field><value name="VALUE"><shadow type="math_number" id="0]br@?4U2-zy0_ye^kC8"><field name="NUM">4</field></shadow></value><next><block type="device_show_number" id="C6-{@64[kYBigrI8-eNk"><value name="number"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="math_arithmetic" id="yFaUOL/1.D1xGe3(A_:k"><field name="OP">MULTIPLY</field><value name="A"><shadow type="math_number" id="b21=X5R|_IVt4!i2UqsE"><field name="NUM">4</field></shadow></value><value name="B"><shadow type="math_number" id="mY*p.;B5QGOs+2gx)Vw}"><field name="NUM">5</field></shadow></value></block></value><next><block type="device_show_leds" id="?Q.QJ)%CVbz=$z[L%fK0"><field name="LEDS">`
+        . # . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></statement></block></xml>
